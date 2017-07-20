@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/7/20 21:22:52。
+     1>项目“E:\vs2013\myspace\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         E:\vs2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         正在跳过...(未检测到相关更改)
+         main.cpp
+       Link:
+         E:\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs2013\myspace\ConsoleApplication1\x64\Debug\OpencvModel.exe" /INCREMENTAL /NOLOGO opencv_world300.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs2013\myspace\ConsoleApplication1\x64\Debug\OpencvModel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs2013\myspace\ConsoleApplication1\x64\Debug\OpencvModel.lib" /MACHINE:X64 x64\Debug\main.obj
+         ConsoleApplication1.vcxproj -> E:\vs2013\myspace\ConsoleApplication1\x64\Debug\OpencvModel.exe
+     1>已完成生成项目“E:\vs2013\myspace\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
